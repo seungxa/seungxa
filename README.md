@@ -57,5 +57,5 @@
 
 - 📧 Email: seungxa@g.skku.edu  
 - 💼 LinkedIn: [linkedin.com/in/seunga-lee](https://www.linkedin.com/in/seunga-lee-26633027b/)  
-- ✍️ Blog: ~~[velog.io/@yourvelog](https://velog.io/@yourvelog) ~~
+- ✍️ Blog: ~[velog.io/@yourvelog](https://velog.io/@yourvelog)~
 - 🌐 Portfolio: [link](https://drive.google.com/file/d/163A-1CEG6nfZzmJAU-1ycaFUvaekGLJK/view?usp=drive_link)
