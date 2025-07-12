@@ -1,24 +1,16 @@
-<h1 align="center">Hi there, I'm Seunga Lee 👋</h1>
-
-<p align="center">
-  Aspiring <strong>Data Scientist / Analyst</strong> <br/>
-  🎓 B.S. in [Your Major] @ [Your University] <br/>
-  📍 Based in Korea | 📝 <a href="https://velog.io/@yourvelog">Velog</a> | 🌐 <a href="https://yourportfolio.com">Portfolio</a>
-</p>
-
+## About Me
 ---
+> <a href="https://velog.io/@yourvelog">Velog</a> | <a href="https://www.linkedin.com/in/seunga-lee-26633027b/">LinkedIn</a>
 
-### 💡 About Me
+### 🎓 Education
+- Sungkyunkwan University DSC & SWE (2022.02-present)
+- Dongtan Global High School (2019.02-2022.01)
 
-- 🎯 Passionate about discovering insights through data  
-- 💻 Python, SQL, Scikit-Learn, Tableau 등으로 분석  
-- 🧠 NLP, ML, 시계열 분석, 통계적 사고에 관심 많음  
-- ✨ 협업과 공유를 즐기는 데이터 러버
+### 🧩 Interests
+- Aspiring <strong>Business/Financial Data Analyst</strong>
+- Data Engineering, Machine Learning, Risk Management, etc..
 
----
-
-### 🛠 Tech Stack
-
+### 🛠 Skills
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
@@ -26,6 +18,9 @@
   <img src="https://img.shields.io/badge/Scikit Learn-F7931E?logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+ 
 </p>
 
 ---
