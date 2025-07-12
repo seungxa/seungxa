@@ -32,10 +32,10 @@
 - 2022.09.30 *1st Prize*, SKKU Metaverse Hackathon(성균관대학교 메타버스 해커톤)
 
 ### ⚡Certifications
-- **Certified Investment Manager(투자자산운용사)**, Korea Financial Investment Association
-- **ADsP(데이터분석준전문가)**, Korea Data Agency
-- **SQLD(SQL 개발자)**, Korea Data Agency
-- Languages: **TOEIC 960/990**, Korean(native)
+- Certified Investment Manager(투자자산운용사), Korea Financial Investment Association
+- ADsP(데이터분석준전문가), Korea Data Agency
+- SQLD(SQL 개발자), Korea Data Agency
+- Languages: TOEIC 960/990, Korean(native)
 
 ---
 
