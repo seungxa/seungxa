@@ -26,10 +26,10 @@
 - (2023.09-2023.12) **NAVER AI RUSH 2023 Student Ambassador**
 
 ### 🏆 Awards
-- 2024.08.16 5~10th Prize, KMA Weather Big Data Contest(기상청 빅데이터 콘테스트)
-- 2023.01.15 1st Prize, SKKU Data Science Ideathon(데이터사이언스융합전공 아이디어 해커톤)
-- 2023.10.01 4th Prize, SKKU Undergraduate Startup Competition(성균관대학교 학부생 창업경진대회)
-- 2022.09.30 1st Prize, SKKU Metaverse Hackathon(성균관대학교 메타버스 해커톤)
+- 2024.08.16 *5~10th Prize*, KMA Weather Big Data Contest(기상청 빅데이터 콘테스트)
+- 2023.01.15 *1st Prize*, SKKU Data Science Ideathon(데이터사이언스융합전공 아이디어 해커톤)
+- 2023.10.01 *4th Prize*, SKKU Undergraduate Startup Competition(성균관대학교 학부생 창업경진대회)
+- 2022.09.30 *1st Prize*, SKKU Metaverse Hackathon(성균관대학교 메타버스 해커톤)
 
 ### ⚡Certifications
 - **Certified Investment Manager(투자자산운용사)**, Korea Financial Investment Association
@@ -37,11 +37,11 @@
 - **SQLD(SQL 개발자)**, Korea Data Agency
 - Languages: **TOEIC 960/995**
 
---
+---
 
 ### 📊 Projects
-
-- **Fishery Sentiment Mapping**  
+- (2025.03-2025.06) 
+- (2025.03-2025.06) xv6 (course: operating system)  
   감성분석 + 시각화 기반 어종 추천 시스템  
   🔗 [GitHub](https://github.com/seungxa/fishery-sentiment)
 
