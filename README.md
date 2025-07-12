@@ -35,19 +35,15 @@
 - **Certified Investment Manager(투자자산운용사)**, Korea Financial Investment Association
 - **ADsP(데이터분석준전문가)**, Korea Data Agency
 - **SQLD(SQL 개발자)**, Korea Data Agency
-- Languages: **TOEIC 960/995**
+- Languages: **TOEIC 960/995**, Korean(native)
 
 ---
 
 ### 📊 Projects
-- (2025.03-2025.06) 
-- (2025.03-2025.06) xv6 (course: operating system)  
-  감성분석 + 시각화 기반 어종 추천 시스템  
-  🔗 [GitHub](https://github.com/seungxa/fishery-sentiment)
-
-- **Crop Yield Forecasting**  
-  기후재해 변수로 작물 수확량 예측하기 (RF, SHAP 사용)  
-  🔗 [Blog](https://velog.io/@yourvelog/crop-forecast)
+- (2025.03-2025.06) Index-Based Crop Insurance (course: data science capstone project)
+- (2025.03-2025.06) MiniShell & ReservationServer (course: systemprogramming lab)
+- (2025.03-2025.06) xv6 (course: operating system)
+- (2024.10-2025.02) Collaborative Project with [TuruCar](https://www.peoplecar.co.kr/)
 
 ### 📈 GitHub Stats
 
