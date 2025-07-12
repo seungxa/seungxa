@@ -46,14 +46,10 @@
 - (2024.10-2025.02) Collaborative Project with [TuruCar](https://www.peoplecar.co.kr/)
 
 ### 📈 GitHub Stats
-
 <p align="left">
-  <img src="https://github-readme-stats-git-master-seungxas-projects.vercel.app/api?username=seungxa
-?username=seungxa&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats-git-master-seungxas-projects.vercel.app/api?username=seungxa
-?username=seungxa&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats-git-master-seungxas-projects.vercel.app/api?username=seungxa&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats-git-master-seungxas-projects.vercel.app/api/top-langs/?username=seungxa&layout=compact&theme=transparent" />
 </p>
-
 ---
 
 ### 📬 Contact
