@@ -23,19 +23,21 @@
 </p>
 
 ### 🚀 Experiences
-- 2024.02-2024.11 Statistical Analysis Club(통계분석학회) P-SAT 33rd
-- 2023.09-2023.12 NAVER AI RUSH 2023 Student Ambassador
-
+- (2024.02-2024.11) Statistical Analysis Club(통계분석학회) P-SAT 33rd
+- (2023.09-2023.12) NAVER AI RUSH 2023 Student Ambassador
 
 ### 🏆 Awards
-- 2024.08.16 | 5~10th Prize(입선), KMA Weather Big Data Contest (기상청 빅데이터 콘테스트)
+- 2024.08.16 5~10th Prize(입선), KMA Weather Big Data Contest (기상청 빅데이터 콘테스트)
 - 2023.01.15 1st Prize(대상), SKKU Data Science Ideathon (데이터사이언스융합전공 아이디어 해커톤)
 - 2023.10.01 4th Prize(장려상), SKKU Undergraduate Startup Competition (성균관대학교 학부생 창업경진대회)
 - 2022.09.30 1st Prize(대상), SKKU Metaverse Hackathon (성균관대학교 메타버스 해커톤)
 
 ### ⚡License & Certificate
-- SQLD, ADsP, KT AICE Associate
-- 2023.03.12 
+- 2024.11.14 Certified Investment Manager, Korea Financial Investment Association(KOFIA)
+- 2024.09.06 ADsP, Korea Data Agency(K-DATA)
+- 2023.10.06 SQLD, Korea Data Agency(K-DATA)
+- 2023.03.12 TOEIC 960, ETS
+
 ---
 
 ### 📊 Projects
