@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
- 
 </p>
 
 ## 🚀 Experiences
