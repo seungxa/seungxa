@@ -1,5 +1,7 @@
-## About Me
+## 🌀 About Me 
 > <a href="https://velog.io/@yourvelog">Velog</a> | <a href="https://www.linkedin.com/in/seunga-lee-26633027b/">LinkedIn</a>
+
+---
 
 ### 🎓 Education
 - Sungkyunkwan University DSC & SWE (2022.02-present)
