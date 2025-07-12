@@ -1,11 +1,9 @@
-# 🌀 About Me 
+## 🌀 About Me 
 > <a href="https://velog.io/@yourvelog">Velog</a> | <a href="https://www.linkedin.com/in/seunga-lee-26633027b/">LinkedIn</a>
 
-
-
 ### 🎓 Education
-- Sungkyunkwan University DSC & SWE (2022.02-present)
-- Dongtan Global High School (2019.02-2022.01)
+- [Sungkyunkwan University](https://www.skku.edu/skku/index.do) DSC & SWE (2022.02-present)
+- (2019.02-2022.01)[Dongtan Global High School](https://www.dtg.hs.kr/sys/) (2019.02-2022.01)
 
 ### 🧩 Interests
 - Aspiring <strong>Business/Financial Data Analyst</strong>
@@ -24,9 +22,11 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 </p>
 
-## 🚀 Experiences
+### 🚀 Experiences
+- 
 
-## 📊 Projects
+
+### 📊 Projects
 
 - **Fishery Sentiment Mapping**  
   감성분석 + 시각화 기반 어종 추천 시스템  
