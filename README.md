@@ -43,6 +43,7 @@
 - (2025.03-2025.06) Index-Based Crop Insurance (course: data science capstone project)
 - (2025.03-2025.06) MiniShell & ReservationServer (course: systemprogramming lab)
 - (2025.03-2025.06) xv6 (course: operating system)
+- (2025.04-2025.05) GPT-based Environmental Policy Trend Analysis and Air Facility Siting
 - (2024.10-2025.02) Collaborative Project with [TuruCar](https://www.peoplecar.co.kr/)
 
 ### 📈 GitHub Stats
