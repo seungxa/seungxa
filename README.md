@@ -35,7 +35,7 @@
 - **Certified Investment Manager(투자자산운용사)**, Korea Financial Investment Association
 - **ADsP(데이터분석준전문가)**, Korea Data Agency
 - **SQLD(SQL 개발자)**, Korea Data Agency
-- Languages: **TOEIC 960/995**, Korean(native)
+- Languages: **TOEIC 960/990**, Korean(native)
 
 ---
 
