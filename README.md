@@ -1,5 +1,4 @@
 ## About Me
----
 > <a href="https://velog.io/@yourvelog">Velog</a> | <a href="https://www.linkedin.com/in/seunga-lee-26633027b/">LinkedIn</a>
 
 ### 🎓 Education
