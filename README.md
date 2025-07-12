@@ -1,5 +1,4 @@
 ## 🌀 About Me 
-> <a href="https://velog.io/@yourvelog">Velog</a> | <a href="https://www.linkedin.com/in/seunga-lee-26633027b/">LinkedIn</a>
 
 ### 🎓 Education
 - [Sungkyunkwan University](https://www.skku.edu/skku/index.do) DSC & SWE (2022.02-present)
@@ -61,7 +60,7 @@
 
 ### 📬 Contact
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/seunga-lee](https://linkedin.com)  
-- ✍️ Blog: [velog.io/@yourvelog](https://velog.io/@yourvelog)  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 📧 Email: seungxa@g.skku.edu  
+- 💼 LinkedIn: [linkedin.com/in/seunga-lee](https://www.linkedin.com/in/seunga-lee-26633027b/)  
+- ✍️ Blog: ~~[velog.io/@yourvelog](https://velog.io/@yourvelog) ~~
+- 🌐 Portfolio: [link](https://drive.google.com/file/d/163A-1CEG6nfZzmJAU-1ycaFUvaekGLJK/view?usp=drive_link)
