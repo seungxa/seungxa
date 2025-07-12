@@ -33,7 +33,7 @@
 - 2022.09.30 1st Prize(대상), SKKU Metaverse Hackathon (성균관대학교 메타버스 해커톤)
 
 ### ⚡License & Certificate
-- 2024.11.14 Certified Investment Manager, Korea Financial Investment Association(KOFIA)
+- 2024.11.14 Certified Investment Manager(투자자산운용사), Korea Financial Investment Association(KOFIA)
 - 2024.09.06 ADsP, Korea Data Agency(K-DATA)
 - 2023.10.06 SQLD, Korea Data Agency(K-DATA)
 - 2023.03.12 TOEIC 960, ETS
