@@ -3,13 +3,13 @@
 
 ### 🎓 Education
 - [Sungkyunkwan University](https://www.skku.edu/skku/index.do) DSC & SWE (2022.02-present)
-- (2019.02-2022.01)[Dongtan Global High School](https://www.dtg.hs.kr/sys/) (2019.02-2022.01)
+- [Dongtan Global High School](https://www.dtg.hs.kr/sys/) (2019.02-2022.01)
 
 ### 🧩 Interests
 - Aspiring <strong>Business/Financial Data Analyst</strong>
 - Data Engineering, Machine Learning, Risk Management, etc..
 
-### 🛠 Skills
+### 🛠 Tech Skills
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
@@ -23,7 +23,8 @@
 </p>
 
 ### 🚀 Experiences
-- 
+- (2024.02-2024.11) Statistical Analysis Club(통계분석학회) P-SAT 33rd
+- (2023.09-2023.12) NAVER AI RUSH 2023 Student Ambassador
 
 
 ### 📊 Projects
@@ -38,11 +39,15 @@
 
 ---
 
-### 🏆 Awards & Certifications
+### 🏆 Awards
+- 2024.08.16 5~10th Prize(입선), KMA Weather Big Data Contest (기상청 빅데이터 콘테스트)
+- 2023.01.15 1st Prize(대상), SKKU Data Science Ideathon (데이터사이언스융합전공 아이디어 해커톤)
+- 2023.10.01 4th Prize(장려상), SKKU Undergraduate Startup Competition (성균관대학교 학부생 창업경진대회)
+- 2022.09.30 1st Prize(대상), SKKU Metaverse Hackathon (성균관대학교 메타버스 해커톤)
 
-- 🥇 교내 데이터톤 최우수상 (2024)  
-- ✅ SQLD, ADsP, KT AICE Associate
-
+### ⚡License & Certificate
+- SQLD, ADsP, KT AICE Associate
+- 2023.03.12 
 ---
 
 ### 📈 GitHub Stats
