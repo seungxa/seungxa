@@ -31,11 +31,11 @@
 - 2023.10.01 **4th Prize, SKKU Undergraduate Startup Competition(성균관대학교 학부생 창업경진대회)**
 - 2022.09.30 **1st Prize, SKKU Metaverse Hackathon(성균관대학교 메타버스 해커톤)**
 
-### ⚡License & Certificate
-- 2024.11.14 **Certified Investment Manager(투자자산운용사)**, Korea Financial Investment Association
-- 2024.09.06 **ADsP(데이터분석준전문가)**, Korea Data Agency
-- 2023.10.06 **SQLD(SQL 개발자)**, Korea Data Agency
-- 2023.03.12 **TOEIC 960**, ETS
+### ⚡Certifications
+- **Certified Investment Manager(투자자산운용사)**, Korea Financial Investment Association
+- **ADsP(데이터분석준전문가)**, Korea Data Agency
+- **SQLD(SQL 개발자)**, Korea Data Agency
+- Languages: **TOEIC 960/995**
 
 ---
 
