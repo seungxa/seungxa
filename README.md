@@ -27,18 +27,6 @@
 - (2023.09-2023.12) NAVER AI RUSH 2023 Student Ambassador
 
 
-### 📊 Projects
-
-- **Fishery Sentiment Mapping**  
-  감성분석 + 시각화 기반 어종 추천 시스템  
-  🔗 [GitHub](https://github.com/seungxa/fishery-sentiment)
-
-- **Crop Yield Forecasting**  
-  기후재해 변수로 작물 수확량 예측하기 (RF, SHAP 사용)  
-  🔗 [Blog](https://velog.io/@yourvelog/crop-forecast)
-
----
-
 ### 🏆 Awards
 - 2024.08.16 5~10th Prize(입선), KMA Weather Big Data Contest (기상청 빅데이터 콘테스트)
 - 2023.01.15 1st Prize(대상), SKKU Data Science Ideathon (데이터사이언스융합전공 아이디어 해커톤)
@@ -49,6 +37,16 @@
 - SQLD, ADsP, KT AICE Associate
 - 2023.03.12 
 ---
+
+### 📊 Projects
+
+- **Fishery Sentiment Mapping**  
+  감성분석 + 시각화 기반 어종 추천 시스템  
+  🔗 [GitHub](https://github.com/seungxa/fishery-sentiment)
+
+- **Crop Yield Forecasting**  
+  기후재해 변수로 작물 수확량 예측하기 (RF, SHAP 사용)  
+  🔗 [Blog](https://velog.io/@yourvelog/crop-forecast)
 
 ### 📈 GitHub Stats
 
