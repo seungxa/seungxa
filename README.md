@@ -1,4 +1,5 @@
 ## 🌀 About Me 
+---
 
 ### 🎓 Education
 - **[Sungkyunkwan University](https://www.skku.edu/skku/index.do)** DSC & SWE (2022.02-present)
