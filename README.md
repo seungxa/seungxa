@@ -37,7 +37,7 @@
 - **SQLD(SQL 개발자)**, Korea Data Agency
 - Languages: **TOEIC 960/995**
 
----
+--
 
 ### 📊 Projects
 
