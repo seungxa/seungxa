@@ -13,9 +13,9 @@
 - (2025.09- ) **PFCT Enterprise Analytics Team** Data Analyst Intern
 
 ### 🚀 Extra-Curricular Experiences
-- (2025.09- ) **FIND-A(금융데이터분석학회)** 11th
+- (2025.09- ) **[FIND-A(금융데이터분석학회)](https://find-a-ai.github.io/)** 11th
 - (2025.08-2025.09) **[LG Aimers](https://lgaimers.ai/)** 7th
-- (2025.06-2025.08) **SK SUNI C** 4th
+- (2025.06-2025.08) **[SK SUNI C](https://mysuni.sk.com/suni-main/auth/gate)** 4th
 - (2024.02-2024.11) **SKKU Statistical Analysis Club(통계분석학회) [P-SAT](https://github.com/P-Sat)** 33rd
 - (2023.09-2023.12) **[NAVER AI RUSH](https://airush.ncloud.com/airush) 2023** Student Ambassador
 
