@@ -13,6 +13,8 @@
 - (2025.09- ) **PFCT Enterprise Analytics Team** Data Analyst Intern
 
 ### 🚀 Extra-Curricular Experiences
+- (2025.09- ) **FIND-A(금융데이터분석학회)** 11th
+- (2025.08-2025.09) **LG Aimers** 7th
 - (2025.06-2025.08) **SK mySUNI C** 4th
 - (2024.02-2024.11) **SKKU Statistical Analysis Club(통계분석학회) P-SAT** 33rd
 - (2023.09-2023.12) **NAVER AI RUSH 2023 Student Ambassador**
@@ -36,7 +38,7 @@
 - (2025.03-2025.06) MiniShell & ReservationServer (course: systemprogramming lab)
 - (2025.03-2025.06) xv6 (course: operating system)
 - (2025.04-2025.05) GPT-based Environmental Policy Trend Analysis and Air Facility Siting
-- (2024.10-2025.02) Collaborative Project with Car-sharing Service [TuruCar](https://www.peoplecar.co.kr/)
+- (2024.10-2025.02) Data Analysis Project with Car-sharing Service [TuruCar](https://www.peoplecar.co.kr/)
 
 ### 🛠 Tech Skills
 <p>
