@@ -9,21 +9,12 @@
 - Aspiring <strong>Business/Financial Data Analyst</strong>
 - Data Engineering, Machine Learning, Risk Management, etc..
 
-### 🛠 Tech Skills
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-</p>
+### 👩🏻‍💻 Work Experiences
+- (2025.09- ) **PFCT Enterprise Analytics Team** Data Analyst Intern
 
-### 🚀 Experiences
-- (2024.02-2024.11) **Statistical Analysis Club(통계분석학회) P-SAT** 33rd
+### 🚀 Extra-Curricular Experiences
+- (2025.06-2025.08) **SK mySUNI C** 4th
+- (2024.02-2024.11) **SKKU Statistical Analysis Club(통계분석학회) P-SAT** 33rd
 - (2023.09-2023.12) **NAVER AI RUSH 2023 Student Ambassador**
 
 ### 🏆 Awards
@@ -46,6 +37,19 @@
 - (2025.03-2025.06) xv6 (course: operating system)
 - (2025.04-2025.05) GPT-based Environmental Policy Trend Analysis and Air Facility Siting
 - (2024.10-2025.02) Collaborative Project with Car-sharing Service [TuruCar](https://www.peoplecar.co.kr/)
+
+### 🛠 Tech Skills
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+</p>
 
 ### 📈 GitHub Stats
 <p align="left">
